@@ -1,4 +1,6 @@
-<p align="center Progra">#Olá Programador 👨‍💻<br><br>Sou um Jovem programador em início de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas. Possuo um certo conhecimento em diversas linguagens de programação, adquirido através de experiências em diversos projetos. Sou proativo, tenho facilidade em aprender e estou sempre buscando superar as expectativas. Meu objetivo é expandir meu conhecimento tecnológico e ingressar em um estágio na área de tecnologia para contribuir de forma significativa em projetos inovadores e desafiadores.</p>&nbsp;
+<p align="center Progra"> 
+<strong> #Olá Programador 👨‍💻<br> </strong> 
+<br>Sou um Jovem programador em início de carreira, atualmente cursando Análise e Desenvolvimento de Sistemas. Possuo um certo conhecimento em diversas linguagens de programação, adquirido através de experiências em diversos projetos. Sou proativo, tenho facilidade em aprender e estou sempre buscando superar as expectativas. Meu objetivo é expandir meu conhecimento tecnológico e ingressar em um estágio na área de tecnologia para contribuir de forma significativa em projetos inovadores e desafiadores.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=70% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrunoFSSantos&theme=radical&mode=weekly" />
